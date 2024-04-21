@@ -8,9 +8,13 @@
 
 <div align="center">
  
- 🔭 Currently Pursuing Bachleor Degree from **Gujarat Technical University**
+ 🔭 Currently Pursuing Bachleor Degree in Computer Engineering from **Gujarat Technical University**
  
  🌱 Learning **Computer Vision, NLP, Neural Network** 
+
+ 🔜 Soon start exploring Generative AI
+
+ 🧩 Also have the intereset in **IoT (Internet of Things)** and **Robotics**
 
 💬 Ask me about **Python, Flask, Web Scraping, Automation and Machine Learning or anything**
 
