@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Currently Pursuing Bachleor Degree in **Gujarat Technical University**
+ 🔭 Currently Pursuing Bachleor Degree from **Gujarat Technical University**
  
  🌱 Learning **Computer Vision, NLP, Neural Network** 
 
