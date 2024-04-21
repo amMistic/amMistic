@@ -12,7 +12,7 @@
  
  🌱 Learning **Computer Vision, NLP, Neural Network** 
 
-💬 Ask me about **Python, Flask, Web Scraping, Automation and Machine Learning or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, Flask, Web Scraping, Automation and Machine Learning or anything**
 
 ⚡ Fun fact : **Know? 2.4 billion cups of coffee a day 😶‍🌫️, yet here I am, enjoying my tea ☕**
 
