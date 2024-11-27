@@ -12,9 +12,7 @@
  
  🌱 Learning **Computer Vision, NLP, Neural Network** 
 
- 🔜 Soon start exploring Generative AI
-
- 🧩 Also have the intereset in **IoT (Internet of Things)** and **Robotics**
+ 🔜 Stepping in GenAI world
 
 💬 Ask me about **Python, Flask, Web Scraping, Automation and Machine Learning or anything**
 
