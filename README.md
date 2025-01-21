@@ -78,5 +78,5 @@
 </a>
 
 <a href="https://leetcode.com/u/ChetanChoudhary_007/" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Leetcode Profile" height="50" width="50" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Leetcode Profile" height="40" width="40" />
 </a>
