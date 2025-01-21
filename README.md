@@ -70,7 +70,7 @@
 </a>
 
 <a href="https://x.com/_Chetan_404" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X (formerly Twitter) Profile" height="40" width="40" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="X (formerly Twitter) Profile" height="40" width="40" />
 </a>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/d02742d8-a675-4b34-8815-1d1f56c8939d" target="_blank" style="margin-right: 10px;"> 
