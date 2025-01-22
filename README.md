@@ -9,7 +9,9 @@
 </p>
 
 <div align="center" width="50%">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amMistic&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Chetan's GitHub Streak" />
+  </p>
 </div>
 
 <div align="center">
