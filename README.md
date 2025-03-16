@@ -63,7 +63,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
 
-<a href="https://x.com/_Chetan_404" target="_blank" style="margin-right: 10px;">
+<a href="https://x.com/kuckerchillguy" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="X (formerly Twitter) Profile" height="40" width="40" />
 </a>
 
