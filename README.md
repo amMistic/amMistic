@@ -39,20 +39,15 @@
     </tr>
     <tr>
         <td><strong>Backend Development</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark"></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark"></td>
     </tr>
     <tr>
         <td><strong>Frameworks</strong></td>
         <td>
             <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" title="LangChain" alt="LangChain" style="filter: invert(1); margin-right: 10px;">
             <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" title="Hugging Face" alt="Hugging Face" style="filter: invert(1); margin-right: 10px;">
-           <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" title="Django" alt="Django" style="filter: invert(1); margin-right: 10px;">
           <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" title="pytorch" alt="pytorch" style="filter: invert(1); margin-right: 10px;">
           <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" title="tensorflow" alt="tensorflow" style="filter: invert(1); margin-right: 10px;">
-<!--             <img height="40" src="https://cdn.brandfetch.io/v3/image/llamaindex.ai?id=idU5AOYJU9" 
-         title="LlamaIndex" 
-         alt="LlamaIndex" 
-         style="margin-right: 15px;"> -->
         </td>
     </tr>
     <tr>
